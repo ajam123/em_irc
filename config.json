@@ -5,7 +5,7 @@
     "server": "irc.gtanet.com",
     "discordToken": "NTk3NTEzMzcwNzEwODM1MjI3.G_Opwe.mscLCEoD1JYOvyyN8hj7vCZCVNWNou5x5hlcFc",
     "channelMapping": {
-      "1192846694363177091": "#emrp.main",
+      "1192846694363177091": "#emrp.main"
     },
     // List of webhooks per channel
     "webhooks": {
