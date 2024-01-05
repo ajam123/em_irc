@@ -1,0 +1,19 @@
+[
+  // Bot 1 (minimal configuration):
+  {
+    "nickname": "EM_IRC",
+    "server": "irc.gtanet.com",
+    "discordToken": "NTk3NTEzMzcwNzEwODM1MjI3.G_Opwe.mscLCEoD1JYOvyyN8hj7vCZCVNWNou5x5hlcFc",
+    "channelMapping": {
+      "1192846694363177091": "#emrp.main",
+      "#1192846694363177091": "#emrp.main",
+      "#asd": "#emrp.main",
+      "asd": "#emrp.main"
+
+    },
+    // List of webhooks per channel
+    "webhooks": {
+      "#discord": "https://discord.com/api/webhooks/1192846713627619420/Fkb2SM8w3WaZOY2PX9xMkpA5gfT5GrzkDOOcdNOgIX0e-q1bdkUnd0B8kJBq_fEXVhZi"
+    }
+  }
+] 
