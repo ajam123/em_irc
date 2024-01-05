@@ -5,11 +5,13 @@
     "server": "irc.gtanet.com",
     "discordToken": "NTk3NTEzMzcwNzEwODM1MjI3.G_Opwe.mscLCEoD1JYOvyyN8hj7vCZCVNWNou5x5hlcFc",
     "channelMapping": {
-      "1192846694363177091": "#emrp.main"
+      "956624031539396629": "#emrp.commands" //commands
+      "961193431089164318": "#emrp.login" //login
     },
     // List of webhooks per channel
     "webhooks": {
-      "1192846694363177091": "https://discord.com/api/webhooks/1192846713627619420/Fkb2SM8w3WaZOY2PX9xMkpA5gfT5GrzkDOOcdNOgIX0e-q1bdkUnd0B8kJBq_fEXVhZi"
+      "956624031539396629": "https://discord.com/api/webhooks/1192862324017602721/BSA0ai2GCy2ekD3thG7IyezuxoI81NaDplJEJBofYcai6tjAjSM6GvILC2uYHplq5ezh", // commands
+      "961193431089164318": "https://discord.com/api/webhooks/1192862394867777637/xcr3XsS1zAlTY7mU0c_q7wMk1neJqIiqpMABNgJtYHUiQMCg-Xxv7NonHNEwwOovZNKC", // login
     }
   }
 ] 
